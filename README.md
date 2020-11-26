@@ -6,16 +6,16 @@
 ### Main Interfaces
 
 #### List of products
-![list of products](screenshots/productsList.png)
+![list of products](screenshots/productsList.PNG)
 
 #### Details of a product
-![product details](screenshots/productDetails.png)
+![product details](screenshots/productDetails.PNG)
 
 #### Add a product to the cart
-![add product](screenshots/addItemToCart.png)
+![add product](screenshots/addItemToCart.PNG)
 
 #### Cart
-![cart](screenshots/Cart.png)
+![cart](screenshots/Cart.PNG)
 
 #### Paypal Paiement
-![paiement](screenshots/paypalPaiement.png)
+![paiement](screenshots/paypalPaiement.PNG)
